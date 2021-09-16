@@ -172,7 +172,8 @@ Allow products to have multiple tags and tags to have many products by using the
 
 ### Fill Out the API Routes to Perform RESTful CRUD Operations
 
-Fill out the unfinished routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform create, read, update, and delete operations using your Sequelize models.
+Fill out the unfinished routes in `product-routes.js`, `tag-routes.js`, and `category-routes.js` to perform 
+create, read, update, and delete operations using your Sequelize models.
 
 Note that the functionality for creating the many-to-many relationship for products has already been completed for you.
 
